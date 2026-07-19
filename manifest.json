@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-subject-orbit",
+  "id": "com.hereliesaz.azphalt.subject-orbit",
   "name": "Subject Orbit",
   "version": "1.0.0",
   "kind": "asset",
