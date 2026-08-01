@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Circles the layer a full turn around a tracked subject, aiming the camera at it and hiding the layer whenever it passes behind.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
